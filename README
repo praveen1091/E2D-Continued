@@ -1,0 +1,42 @@
+﻿DISCLAIMER:
+    
+This project was originally started by Ondrej Mocny (http://e2d.hardwire.cz/Doxygen/index.html) as part of his thesis. By his implicit permission, I am merely extending and modifying his original code. If you would like to learn more about the project, or would like to see the original code, please visit Ondrej's website as it contains a wealth of information.
+
+END DISCLAIMER
+
+
+Project:
+Continued development on E2D - 2D Terrain Editor for Unity 3D (www.unity3d.com).
+
+
+Description:
+E2D is a simple but powerful 2D terrain creation toolkit for unity. I stumbled upon it when looking for a simple solution to building custom 2D terrain in unity. While E2D was great in its initial functionality, I think its greatest asset is its tremendous potential. Therefore, I will work to fix some existing bugs, and will be adding functionality.
+
+If you would like to contribute to the continued development, or are interested in some aspect of it, please contact me. If you are interested in the original product, please visit http://e2d.hardwire.cz/Doxygen/index.html and/or contact Ondrej.
+
+
+Licensing:
+Ondrej's original license also applies to my modifications of his software. In addition, if you use my modified version, I request that you include at least an acknowledgement of my contribution to the project.
+
+You can view the original license below, or see LICENSE.txt in the repo.
+
+Copyright (c) 2011 Ondrej Mocny http://www.hardwire.cz
+
+This software is provided 'as-is', without any express or implied
+warranty.  In no event will the authors be held liable for any damages
+arising from the use of this software.
+Permission is granted to anyone to use this software for any purpose,
+including commercial applications, and to alter it and redistribute it
+freely, subject to the following restrictions:
+  1. The origin of this software must not be misrepresented; you must not
+claim that you wrote the original software. If you use this software
+in a product, an acknowledgment in the product documentation would be
+appreciated but is not required.
+  2. Altered source versions must be plainly marked as such, and must not be
+misrepresented as being the original software.
+  3. This notice may not be removed or altered from any source distribution.
+
+
+
+
+
